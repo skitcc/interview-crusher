@@ -1,0 +1,72 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:GO",
+      "color": {
+        "a": 1,
+        "rgb": 3003583
+      }
+    },
+    {
+      "query": "path:DB",
+      "color": {
+        "a": 1,
+        "rgb": 16098596
+      }
+    },
+    {
+      "query": "path:NW",
+      "color": {
+        "a": 1,
+        "rgb": 8166655
+      }
+    },
+    {
+      "query": "path:Arch",
+      "color": {
+        "a": 1,
+        "rgb": 12616956
+      }
+    },
+    {
+      "query": "path:Brokers",
+      "color": {
+        "a": 1,
+        "rgb": 16478597
+      }
+    },
+    {
+      "query": "path:Containerd",
+      "color": {
+        "a": 1,
+        "rgb": 3718648
+      }
+    },
+    {
+      "query": "file:я не умру без оффера",
+      "color": {
+        "a": 1,
+        "rgb": 16639626
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0.1,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.367901234567901,
+  "repelStrength": 10.5814073997305,
+  "linkStrength": 0.620740740740741,
+  "linkDistance": 273,
+  "scale": 0.45050811767578125,
+  "close": true
+}
